@@ -1,10 +1,13 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Wie bestelle ich?"
+title : "Frisches Brot, nachhaltig geliefert - direkt zu Dir nach Hause"
 content: |
-  Schreibe Helge Koch eine Whatsapp-Nachricht
+  Helge, der Brotbringer, backt sein Brot umweltfreundlich mit Strom aus seiner Solaranlage
+  und liefert es mit seinem Elektroauto aus. Das Brot wird aus den besten Zutaten und meist
+  aus Vollkorn hergestellt. Gelegentlich gibt es zusätzlich selbstgemachte Marmelade oder
+  andere Leckereien.
 # button:
 #   label: "Learn More"
 #   link: "#"
-image: "images/spot1.jpeg"
+# image: "images/spot1.png"

@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "Brotbringer - Helge Koch"
 copyright = "{year}"
 
 ## -----------------------------------------------
@@ -37,8 +37,8 @@ disableKinds = ["taxonomy", "section"]
   favicon = true
 
 [Params.social]
-  twitter = "https://twitter.com/caressofsteel_"
-  email = "helgekoch@me.com"
+  # twitter = "https://twitter.com/caressofsteel_"
+  # email = "helgekoch@me.com"
 
 
 [Params.asset]

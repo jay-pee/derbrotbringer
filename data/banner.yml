@@ -3,9 +3,9 @@ style: "style1 orient-left content-align-left image-position-right fullscreen on
 title : "Der Brotbringer"
 subtitle: |
   Der Brotbringer Helge Koch bringt Brote vorbei
-content : "Aber nur wenn er nicht auf reisen ist"
+content : "- aber nur wenn er nicht auf Reisen ist."
 button:
   label : "Hier bestellen"
-  link : "#first"
+  link : "#second"
 image : "images/banner.jpg"
 
