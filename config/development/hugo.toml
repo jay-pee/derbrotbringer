@@ -32,7 +32,7 @@ disableKinds = ["taxonomy", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "Der Brotbringer"
+  description = "Frisches Brot, nachhaltig geliefert - direkt zu Dir nach Hause"
   logo = "images/banner.jpg"
   favicon = true
 
