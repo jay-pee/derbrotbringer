@@ -4,8 +4,8 @@ title : "Der Brotbringer"
 subtitle: |
   Der Brotbringer Helge Koch bringt Brote vorbei
 content : "- aber nur wenn er nicht auf Reisen ist."
-button:
-  label : "Hier bestellen"
-  link : "#second"
+# button:
+#   label : "Hier bestellen"
+#   link : "#second"
 image : "images/banner.jpg"
 
